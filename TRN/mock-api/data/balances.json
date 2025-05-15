@@ -1,0 +1,64 @@
+{
+  "totalBalanceUSD": 154235.67,
+  "totalBalanceBTC": 2.35,
+  "percentChange24h": 3.75,
+  "performanceData": [
+    { "timestamp": "2023-05-01T00:00:00Z", "value": 145000 },
+    { "timestamp": "2023-05-02T00:00:00Z", "value": 146500 },
+    { "timestamp": "2023-05-03T00:00:00Z", "value": 144800 },
+    { "timestamp": "2023-05-04T00:00:00Z", "value": 147200 },
+    { "timestamp": "2023-05-05T00:00:00Z", "value": 149500 },
+    { "timestamp": "2023-05-06T00:00:00Z", "value": 150200 },
+    { "timestamp": "2023-05-07T00:00:00Z", "value": 151800 },
+    { "timestamp": "2023-05-08T00:00:00Z", "value": 150500 },
+    { "timestamp": "2023-05-09T00:00:00Z", "value": 152100 },
+    { "timestamp": "2023-05-10T00:00:00Z", "value": 154235.67 }
+  ],
+  "assets": [
+    {
+      "id": "1",
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "balance": 1.2345,
+      "balanceUSD": 80247.34,
+      "percentChange24h": 4.2,
+      "priceUSD": 65000.68
+    },
+    {
+      "id": "2",
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "balance": 12.567,
+      "balanceUSD": 45241.2,
+      "percentChange24h": 2.8,
+      "priceUSD": 3600.0
+    },
+    {
+      "id": "3",
+      "symbol": "USDT",
+      "name": "Tether",
+      "balance": 15000,
+      "balanceUSD": 15000,
+      "percentChange24h": 0.01,
+      "priceUSD": 1.0
+    },
+    {
+      "id": "4",
+      "symbol": "SOL",
+      "name": "Solana",
+      "balance": 120.5,
+      "balanceUSD": 9640,
+      "percentChange24h": 5.6,
+      "priceUSD": 80.0
+    },
+    {
+      "id": "5",
+      "symbol": "XRP",
+      "name": "Ripple",
+      "balance": 8500,
+      "balanceUSD": 4250,
+      "percentChange24h": -1.2,
+      "priceUSD": 0.5
+    }
+  ]
+}

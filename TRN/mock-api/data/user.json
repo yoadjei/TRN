@@ -1,0 +1,30 @@
+{
+  "id": "1",
+  "name": "Kelvin Okyere",
+  "email": "kelvin.okyere@example.com",
+  "phone": "+233 201-234-567",
+  "country": "Ghana",
+  "verificationLevel": 2,
+  "verificationStatus": "verified",
+  "profileImage": null,
+  "preferences": {
+    "theme": "dark",
+    "currency": "USD",
+    "language": "en",
+    "notifications": {
+      "email": true,
+      "push": true,
+      "sms": false,
+      "priceAlerts": true
+    }
+  },
+  "kycInfo": {
+    "idVerified": true,
+    "addressVerified": true,
+    "idType": "ghanacard",
+    "idNumber": "********1234",
+    "expiryDate": "2028-06-15"
+  },
+  "createdAt": "2023-01-15T10:30:00Z",
+  "lastLoginAt": "2025-05-21T14:22:15Z"
+}

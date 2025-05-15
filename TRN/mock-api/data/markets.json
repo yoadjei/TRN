@@ -1,0 +1,76 @@
+{
+  "markets": [
+    {
+      "id": "BTC-USDT",
+      "symbol": "BTC-USDT",
+      "baseAsset": "BTC",
+      "quoteAsset": "USDT",
+      "price": 65432.10,
+      "percentChange24h": 2.5,
+      "volume24h": 1200000000
+    },
+    {
+      "id": "ETH-USDT",
+      "symbol": "ETH-USDT",
+      "baseAsset": "ETH",
+      "quoteAsset": "USDT",
+      "price": 3612.45,
+      "percentChange24h": 1.8,
+      "volume24h": 650000000
+    },
+    {
+      "id": "SOL-USDT",
+      "symbol": "SOL-USDT",
+      "baseAsset": "SOL",
+      "quoteAsset": "USDT",
+      "price": 79.82,
+      "percentChange24h": 5.2,
+      "volume24h": 320000000
+    },
+    {
+      "id": "XRP-USDT",
+      "symbol": "XRP-USDT",
+      "baseAsset": "XRP",
+      "quoteAsset": "USDT",
+      "price": 0.51,
+      "percentChange24h": -0.8,
+      "volume24h": 180000000
+    },
+    {
+      "id": "DOGE-USDT",
+      "symbol": "DOGE-USDT",
+      "baseAsset": "DOGE",
+      "quoteAsset": "USDT",
+      "price": 0.142,
+      "percentChange24h": 3.4,
+      "volume24h": 240000000
+    },
+    {
+      "id": "BNB-USDT",
+      "symbol": "BNB-USDT",
+      "baseAsset": "BNB",
+      "quoteAsset": "USDT",
+      "price": 562.35,
+      "percentChange24h": 1.2,
+      "volume24h": 410000000
+    },
+    {
+      "id": "ADA-USDT",
+      "symbol": "ADA-USDT",
+      "baseAsset": "ADA",
+      "quoteAsset": "USDT",
+      "price": 0.68,
+      "percentChange24h": 2.1,
+      "volume24h": 150000000
+    },
+    {
+      "id": "DOT-USDT",
+      "symbol": "DOT-USDT",
+      "baseAsset": "DOT",
+      "quoteAsset": "USDT",
+      "price": 15.72,
+      "percentChange24h": 4.3,
+      "volume24h": 120000000
+    }
+  ]
+}

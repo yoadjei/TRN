@@ -1,0 +1,92 @@
+{
+  "transactions": [
+    {
+      "id": "tx1",
+      "type": "deposit",
+      "status": "completed",
+      "amount": 0.5,
+      "currency": "BTC",
+      "fee": 0,
+      "timestamp": "2023-05-08T14:32:10Z",
+      "address": "1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa",
+      "txHash": "0x742d35Cc6634C0532925a3b844Bc454e4438f44e5a1b8c42e0c6f1c18"
+    },
+    {
+      "id": "tx2",
+      "type": "withdrawal",
+      "status": "completed",
+      "amount": 0.25,
+      "currency": "BTC",
+      "fee": 0.0001,
+      "timestamp": "2023-05-07T10:15:22Z",
+      "address": "1BvBMSEYstWetqTFn5Au4m4GFg7xJaNVN2",
+      "txHash": "0x892d35Bc6634C0532925a3b844Bc454e4438f44e5a1b8c42e0c6f2d28"
+    },
+    {
+      "id": "tx3",
+      "type": "deposit",
+      "status": "completed",
+      "amount": 5.0,
+      "currency": "ETH",
+      "fee": 0,
+      "timestamp": "2023-05-06T09:22:15Z",
+      "address": "0x742d35Cc6634C0532925a3b844Bc454e4438f44e",
+      "txHash": "0x942d35Cc6634C0532925a3b844Bc454e4438f44e5a1b8c42e0c7f1c38"
+    },
+    {
+      "id": "tx4",
+      "type": "withdrawal",
+      "status": "pending",
+      "amount": 2.0,
+      "currency": "ETH",
+      "fee": 0.005,
+      "timestamp": "2023-05-05T16:45:10Z",
+      "address": "0x912d35Cc6634C0532925a3b844Bc454e4438f44e",
+      "txHash": "0x1a2d35Cc6634C0532925a3b844Bc454e4438f44e5a1b8c42e0c6f4c48"
+    },
+    {
+      "id": "tx5",
+      "type": "deposit",
+      "status": "completed",
+      "amount": 5000,
+      "currency": "USDT",
+      "fee": 0,
+      "timestamp": "2023-05-04T12:10:45Z",
+      "address": "TPucrXcBEmC8L6N7cseBU3zJTAZkMhQFSn",
+      "txHash": "0x2c2d35Cc6634C0532925a3b844Bc454e4438f44e5a1b8c42e0c5f5c58"
+    },
+    {
+      "id": "tx6",
+      "type": "withdrawal",
+      "status": "failed",
+      "amount": 1000,
+      "currency": "USDT",
+      "fee": 1.0,
+      "timestamp": "2023-05-03T09:05:22Z",
+      "address": "TYucrXcBEmC8L6N7cseBU3zJTAZkMhQFSn",
+      "txHash": "0x3d2d35Cc6634C0532925a3b844Bc454e4438f44e5a1b8c42e0c4f6c68"
+    },
+    {
+      "id": "tx7",
+      "type": "deposit",
+      "status": "completed",
+      "amount": 50,
+      "currency": "SOL",
+      "fee": 0,
+      "timestamp": "2023-05-02T14:30:15Z",
+      "address": "FHKVMjicMjJGPKK4jVgxFxWusdGkeDVY7xB7vAAfSVQz",
+      "txHash": "0x4e2d35Cc6634C0532925a3b844Bc454e4438f44e5a1b8c42e0c3f7c78"
+    },
+    {
+      "id": "tx8",
+      "type": "withdrawal",
+      "status": "completed",
+      "amount": 2500,
+      "currency": "XRP",
+      "fee": 0.25,
+      "timestamp": "2023-05-01T08:15:10Z",
+      "address": "rHb9CJAWyB4rj91VRWn96DkukG4bwdtyTh",
+      "txHash": "0x5f2d35Cc6634C0532925a3b844Bc454e4438f44e5a1b8c42e0c2f8c88"
+    }
+  ]
+}

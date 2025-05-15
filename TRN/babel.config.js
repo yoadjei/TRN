@@ -1,0 +1,40 @@
+module.exports = {
+  presets: ['module:metro-react-native-babel-preset'],
+  plugins: [
+    [
+      'module-resolver',
+      {
+        root: ['./'],
+        extensions: [
+          '.ios.ts',
+          '.android.ts',
+          '.ts',
+          '.ios.tsx',
+          '.android.tsx',
+          '.tsx',
+          '.jsx',
+          '.js',
+          '.json',
+        ],
+        alias: {
+          '@host-app': './apps/host-app',
+          '@auth': './apps/auth',
+          '@dashboard': './apps/dashboard',
+          '@wallet': './apps/wallet',
+          '@market-spot': './apps/market-spot',
+          '@market-derivatives': './apps/market-derivatives',
+          '@p2p': './apps/p2p',
+          '@earn': './apps/earn',
+          '@nft': './apps/nft',
+          '@news': './apps/news',
+          '@settings': './apps/settings',
+          '@kyc': './apps/kyc',
+          '@ui': './packages/ui',
+          '@theme': './packages/theme',
+          '@utils': './packages/utils',
+        },
+      },
+    ],
+    'react-native-reanimated/plugin',
+  ],
+};
